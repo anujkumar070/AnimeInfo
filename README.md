@@ -1,5 +1,5 @@
 # Anime Info
- To view Website click here : <a href="https://anime-info-application.netlify.app/fact" >Anime-Info-Website</a>
+ To view Website click here : <a href="https://anime-info-application.netlify.app" >Anime-Info-Website</a>
  
  # Screenshots of Website:
  <h2>Home Page</h2>
